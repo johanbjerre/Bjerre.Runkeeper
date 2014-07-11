@@ -1,0 +1,13 @@
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.exe.config
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.exe
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.pdb
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.dll
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Scraper.dll
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.pdb
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Scraper.pdb
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.csprojResolveAssemblyReference.cache
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.Form1.resources
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.Properties.Resources.resources
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.csproj.GenerateResource.Cache
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.exe
+C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.pdb
