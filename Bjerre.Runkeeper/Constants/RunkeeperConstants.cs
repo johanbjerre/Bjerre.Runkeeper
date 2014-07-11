@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Bjerre.Runkeeper.Constants
+﻿namespace Bjerre.Runkeeper.Constants
 {
     public class RunkeeperConstants
     {

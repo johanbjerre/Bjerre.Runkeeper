@@ -45,18 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Constants\RunkeeperConstants.cs" />
-    <Compile Include="Constants\ScrapeConstants.cs" />
-    <Compile Include="Constants\TimeConstants.cs" />
     <Compile Include="Helpers\CollectStats.cs" />
     <Compile Include="Helpers\TimeHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValueObjects\Activities.cs" />
+    <Compile Include="ValueObjects\MonthActivities.cs" />
+    <Compile Include="ValueObjects\RunkeeperActivities.cs" />
+    <Compile Include="ValueObjects\YearActivities.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Scraping\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
