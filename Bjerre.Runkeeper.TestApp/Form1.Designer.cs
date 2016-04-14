@@ -59,7 +59,7 @@
             this.usernameBox.Name = "usernameBox";
             this.usernameBox.Size = new System.Drawing.Size(117, 20);
             this.usernameBox.TabIndex = 3;
-            this.usernameBox.Text = "username";
+            this.usernameBox.Text = "email";
             // 
             // passwordBox
             // 
@@ -68,7 +68,6 @@
             this.passwordBox.Size = new System.Drawing.Size(117, 20);
             this.passwordBox.TabIndex = 4;
             this.passwordBox.Text = "password";
-            this.passwordBox.TextChanged += new System.EventHandler(this.passwordBox_TextChanged);
             // 
             // startDateBox
             // 
