@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\RunkeeperConstants.cs" />
-    <Compile Include="Helpers\CalcHelper.cs" />
     <Compile Include="Helpers\CollectStats.cs" />
     <Compile Include="Helpers\TimeHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

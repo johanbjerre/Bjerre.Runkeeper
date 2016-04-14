@@ -5,3 +5,10 @@ C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\obj\Debug\Bjerre.Runkeeper.
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\obj\Debug\Bjerre.Runkeeper.csprojResolveAssemblyReference.cache
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Scraper.dll
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Scraper.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Runkeeper.dll
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Runkeeper.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Scraper.dll
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\bin\Debug\Bjerre.Scraper.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\obj\Debug\Bjerre.Runkeeper.csprojResolveAssemblyReference.cache
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\obj\Debug\Bjerre.Runkeeper.dll
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper\obj\Debug\Bjerre.Runkeeper.pdb

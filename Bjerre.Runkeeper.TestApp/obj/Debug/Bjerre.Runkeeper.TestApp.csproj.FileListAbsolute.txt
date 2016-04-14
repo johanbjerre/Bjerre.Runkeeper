@@ -11,3 +11,16 @@ C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Ru
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.csproj.GenerateResource.Cache
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.exe
 C:\projects\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.exe.config
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.exe
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.TestApp.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.dll
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Scraper.dll
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Runkeeper.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\bin\Debug\Bjerre.Scraper.pdb
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.csprojResolveAssemblyReference.cache
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.Form1.resources
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.Properties.Resources.resources
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.csproj.GenerateResource.Cache
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.exe
+C:\drive\jubjerre\dotNet\Bjerre\Bjerre.Runkeeper\Bjerre.Runkeeper.TestApp\obj\Debug\Bjerre.Runkeeper.TestApp.pdb

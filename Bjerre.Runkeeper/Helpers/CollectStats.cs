@@ -78,7 +78,8 @@ namespace Bjerre.Runkeeper.Helpers
 
         private static string GetPeriodData(ref Scraper.Scraper scraper, string userName, string period)
         {
-            var url = "http://runkeeper.com/activitiesByDateRange?userName=" + userName + "&startDate=" + period;
+            var url = String.Format("http://runkeeper.com/activitiesByDateRange?userName={0}&userName={0}&startDate={1}", userName, period);
+            //var url = "http://runkeeper.com/activitiesByDateRange?userName=" + userName + "&startDate=" + period;
             var lastContent = scraper.PerformRequest(url, null);
             return lastContent;
         }
