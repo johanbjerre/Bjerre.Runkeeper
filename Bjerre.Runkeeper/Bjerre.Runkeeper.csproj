@@ -52,6 +52,10 @@
     <Compile Include="ValueObjects\Activities.cs" />
     <Compile Include="ValueObjects\MonthActivities.cs" />
     <Compile Include="ValueObjects\RunkeeperActivities.cs" />
+    <Compile Include="ValueObjects\Trk.cs" />
+    <Compile Include="ValueObjects\Trkpt.cs" />
+    <Compile Include="ValueObjects\Trkseg.cs" />
+    <Compile Include="ValueObjects\Xml.cs" />
     <Compile Include="ValueObjects\YearActivities.cs" />
   </ItemGroup>
   <ItemGroup />

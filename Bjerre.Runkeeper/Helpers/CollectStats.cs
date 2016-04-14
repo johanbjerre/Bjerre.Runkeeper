@@ -71,7 +71,7 @@ namespace Bjerre.Runkeeper.Helpers
 
         private static string GetUserIdFromHome(string home)
         {
-            var re = new Regex(@"user\/([0-9]+)\/profile");
+            var re = new Regex(@"user\/([^\/]*)\/profile");
             var match = re.Match(home);
             return match.Success ? match.Groups[1].Value : null;
         }
